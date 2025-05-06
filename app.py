@@ -2,7 +2,7 @@ import streamlit as st
 import openai
 import pandas as pd
 
-openai.api_key = st.secrets["openai_api_key"]
+openai.api_key = st.secrets["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"]
 
 st.title("📞 Leadsgenerator for Eir Renhold")
 
